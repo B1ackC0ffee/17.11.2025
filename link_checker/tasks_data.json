@@ -1,0 +1,38 @@
+{
+  "tasks": {
+    "1": {
+      "id": 1,
+      "links": {
+        "github.com": "available",
+        "google.com": "available",
+        "sluchauniyebukvy.xxx": "not available",
+        "yandex.ru": "available"
+      },
+      "created_at": "2025-11-17T15:13:41.8640663+03:00",
+      "updated_at": "2025-11-17T15:13:42.8833875+03:00"
+    },
+    "2": {
+      "id": 2,
+      "links": {
+        "github.com": "available",
+        "google.com": "available",
+        "sluchauniyebukvy.xxx": "not available",
+        "yandex.ru": "available"
+      },
+      "created_at": "2025-11-17T16:55:55.1172966+03:00",
+      "updated_at": "2025-11-17T16:55:56.0084737+03:00"
+    },
+    "3": {
+      "id": 3,
+      "links": {
+        "github.com": "available",
+        "google.com": "available",
+        "sluchauniyebukvy.xxx": "not available",
+        "yandex.ru": "available"
+      },
+      "created_at": "2025-11-17T16:56:39.6915371+03:00",
+      "updated_at": "2025-11-17T16:56:40.3867098+03:00"
+    }
+  },
+  "next_id": 4
+}
